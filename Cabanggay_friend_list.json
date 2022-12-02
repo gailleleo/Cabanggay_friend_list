@@ -1,0 +1,44 @@
+[
+    {
+        "personalnformation" : 
+        {
+            "firstName" : "Gaille",
+            "lastName" : "Cabanggay",
+            "age" : 22,
+            "address" : "Deca Homes Sta. Barbara, Sta. Barbara, Iloilo",
+            "contactNumber" : "09217277154",
+            "friendList" : 
+            {
+                "friend1" : 
+                {
+                    "fName" : "Rencel Grace Uytoco",
+                    "fAge" : 18,
+                    "fAddress" : "Adriana Malot9 Compound Lopez Jaena St. Brgy. Infante Molo Iloilo City",
+                    "fLikes" : "Beaches & Ice Cream",
+                    "fDislikes" : "Sunburn",
+                    "fFeeling" : "Loved"
+                },
+
+                "friend2" :
+                {
+                    "fName" : "Paolo Miguel D. Cuello",
+                    "fAge" : 21,
+                    "fAddress" : "Brgy. Baclayan, New Lucena, Iloilo City, Philippines",
+                    "fLikes" : "Foodtrips",
+                    "fDislikes" : "Waking up early ",
+                    "fFeeling" : "Married kahit single"
+                },
+
+                "friend3" : 
+                {
+                    "fName" : "Diane Angelique Torres",
+                    "fAge" : 21,
+                    "fAddress" : "Pandaraonan, Nueva Valencia, Guimaras",
+                    "fLikes" : "Kpop, Sweets, Dogs",
+                    "fDislikes" : "Dark, insects",
+                    "fFeeling" : "Hungry"
+                }
+            }   
+        }
+    }
+]
